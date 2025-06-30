@@ -16,7 +16,7 @@
                 <div>
                     <a class="link" href="#">Агентство</a>
                     <a class="link" href="#">Услуги</a>
-                    <a class="link" href="#">Кейсы</a>
+                    <a class="link" href="/projects">Кейсы</a>
                 </div>
                 <div>
                     <a class="link" href="#">Блог</a>
