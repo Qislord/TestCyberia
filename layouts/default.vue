@@ -7,7 +7,7 @@
   </div>
 </template>
 <style lang="scss" scoped>
-.content{
+.content {
   margin-top: 64px;
 }
 </style>
